@@ -1,0 +1,3 @@
+(library
+  (name testUtils)
+  (libraries p3 ounit2 re))
